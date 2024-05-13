@@ -121,7 +121,7 @@ export default {
   padding: 4px;
   border: none;
   width: 9%;
-  background: #2dade9;
+  background: #198cc2;
   color: #fff;
   font-size: 15px;
   cursor: pointer;
